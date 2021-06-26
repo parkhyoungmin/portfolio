@@ -2,24 +2,24 @@
 
 </br>
 
-## :pushpin: Intro
+## Intro
 IT개발자로 성공하기 위해서 하루하루 지식과 스킬을 쌓고 있습니다.
 
 </br>
 
-## :pushpin: Contact
+## Contact
 - 이메일: parkhm94@naver.com
 - 블로그: https://parkhyoungmin.github.io/
 - 깃헙: https://github.com/parkhyoungmin
 
 </br>
 
-## :pushpin: Education
+## Education
 - Oct.2020 ~ Mar.2021 kgitbank 마이크로서비스 기반 자바 응용SW개발자 양성
 
 </br>
 
-## :pushpin: Projects
+## Projects
 ### 1. [편의점 포스기 제작](https://github.com/parkhyoungmin/Convienience-Project)
 >JAVA GUI를 활용한 간단한 편의점 제작   
 >인원 : 4명  
